@@ -28,7 +28,7 @@ I enjoy tackling complex challenges, learning cutting-edge technologies, and col
 
 ## Featured Projects 💻
 
-### [ProofHub](your_project_link_here)
+### [Ghonsi Proof](your_project_link_here)
 
 ![Project Screenshot](insert-your-banner-image-here)
 
@@ -46,7 +46,7 @@ You can check our X **[Twitter (X)](x.com/Bchain_YCTEpe)**
 
 ## Get in Touch 📬
 
-- **[Website / Portfolio]()**
+- **[Website / Portfolio](https://progress-portfolio.vercel.app/)**
 - **[LinkedIn](http://linkedIn.com/in/progress-ayere-2b2a19271)**
 - **[Twitter (X)](x.com/MichaelAyere)**
 - 📧 **ayereprogress2@gmail.com**

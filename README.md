@@ -11,7 +11,7 @@ As one of the co-founders of **Blockchain on Campus (BCC)**, I’m committed to 
 I enjoy tackling complex challenges, learning cutting-edge technologies, and collaborating with diverse teams to create solutions that make an impact.
 
 - 🌱 Currently learning: **Smart Contract Development & Advanced React**
-- 🔭 Working on: **ProofHub — a Hedera Hackathon Project for Proof of Work & Credentials**
+- 🔭 Working on: **Ghonsi Proof — a Project for Proof of Work & Credentials**
 - 🌍 Languages: **JavaScript, HTML, CSS, React | English**
 - 📫 How to reach me: **ayereprogress2@gmail.com**
 - ⚡ Fun fact: **I taught my first blockchain class in school — and it sparked an entire student community!**
